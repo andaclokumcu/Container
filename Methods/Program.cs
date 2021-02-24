@@ -22,7 +22,7 @@ namespace Methods
             urun2.Fiyati = 79.95;
             urun2.Aciklama = "Diyarbakır Karpuzu";
 
-            Urun[] urunler = new Urun[] {urun1,urun2};
+            Urun[] urunler = new Urun[] { urun1, urun2 };
 
 
             foreach (Urun urun in urunler)
@@ -32,7 +32,7 @@ namespace Methods
                 Console.WriteLine(urun.Aciklama);
                 Console.WriteLine("-----------------");
             }
-   
+
             SepetManager sepetManager = new SepetManager();
             sepetManager.Ekle(urun1);
             sepetManager.Ekle(urun2);

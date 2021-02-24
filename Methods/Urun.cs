@@ -14,5 +14,6 @@ namespace Methods
         public string Aciklama { get; set; }
 
         //Ürünün özelliklerini içeren sınıf.
+
     }
 }
