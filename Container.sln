@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Object Oriented Programming
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explanation of Switch", "Explanation of Switch\Explanation of Switch.csproj", "{9A4BCB68-66F0-4949-B2FA-228E1CF48674}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop (while)", "Loop (while)\Loop (while).csproj", "{1074CFDC-3386-432A-91FE-F35F7DAD8B11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{9A4BCB68-66F0-4949-B2FA-228E1CF48674}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A4BCB68-66F0-4949-B2FA-228E1CF48674}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A4BCB68-66F0-4949-B2FA-228E1CF48674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1074CFDC-3386-432A-91FE-F35F7DAD8B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1074CFDC-3386-432A-91FE-F35F7DAD8B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1074CFDC-3386-432A-91FE-F35F7DAD8B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1074CFDC-3386-432A-91FE-F35F7DAD8B11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
