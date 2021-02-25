@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explanation of Object Orien
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object Oriented Programming - II", "Object Oriented Programming - II\Object Oriented Programming - II.csproj", "{965D9E6B-704E-4198-8733-4B5027B1F61F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object Oriented Programming - III", "Object Oriented Programming - III\Object Oriented Programming - III.csproj", "{4519698B-000D-465F-BED3-6DE5931061C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{965D9E6B-704E-4198-8733-4B5027B1F61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{965D9E6B-704E-4198-8733-4B5027B1F61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{965D9E6B-704E-4198-8733-4B5027B1F61F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4519698B-000D-465F-BED3-6DE5931061C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4519698B-000D-465F-BED3-6DE5931061C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4519698B-000D-465F-BED3-6DE5931061C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4519698B-000D-465F-BED3-6DE5931061C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
