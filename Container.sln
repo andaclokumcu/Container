@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Out Parameter Usage", "Out 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary Class", "Dictionary Class\Dictionary Class.csproj", "{6A5A209A-6CEC-444E-82BA-2E7CCF15E6EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary (Dictionary)", "MyList (Dictionary)\MyDictionary (Dictionary).csproj", "{C0DE013C-6E3E-485D-AB15-73370B2E1FCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{6A5A209A-6CEC-444E-82BA-2E7CCF15E6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A5A209A-6CEC-444E-82BA-2E7CCF15E6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A5A209A-6CEC-444E-82BA-2E7CCF15E6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0DE013C-6E3E-485D-AB15-73370B2E1FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0DE013C-6E3E-485D-AB15-73370B2E1FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0DE013C-6E3E-485D-AB15-73370B2E1FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0DE013C-6E3E-485D-AB15-73370B2E1FCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
