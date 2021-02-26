@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Object Oriented Programming
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Object Oriented Programming - III", "Object Oriented Programming - III\Object Oriented Programming - III.csproj", "{4519698B-000D-465F-BED3-6DE5931061C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explanation of Switch", "Explanation of Switch\Explanation of Switch.csproj", "{9A4BCB68-66F0-4949-B2FA-228E1CF48674}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Explanation of Switch", "Explanation of Switch\Explanation of Switch.csproj", "{9A4BCB68-66F0-4949-B2FA-228E1CF48674}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop (while)", "Loop (while)\Loop (while).csproj", "{1074CFDC-3386-432A-91FE-F35F7DAD8B11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop (while)", "Loop (while)\Loop (while).csproj", "{1074CFDC-3386-432A-91FE-F35F7DAD8B11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Technological Products Example (for,while and foreach)", "Technological Products Example (for and while)\Technological Products Example (for,while and foreach).csproj", "{75A4E17C-BB21-4317-88FA-0B2E2FEBCECF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{1074CFDC-3386-432A-91FE-F35F7DAD8B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1074CFDC-3386-432A-91FE-F35F7DAD8B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1074CFDC-3386-432A-91FE-F35F7DAD8B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A4E17C-BB21-4317-88FA-0B2E2FEBCECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A4E17C-BB21-4317-88FA-0B2E2FEBCECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A4E17C-BB21-4317-88FA-0B2E2FEBCECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A4E17C-BB21-4317-88FA-0B2E2FEBCECF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
