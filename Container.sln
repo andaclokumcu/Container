@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Technological Products Exam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer Tracking Example in a Bank", "Customer Tracking Example in a Bank\Customer Tracking Example in a Bank.csproj", "{78275A20-E1DC-48D4-B706-B1732048C208}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref Parameter Usage", "Ref Parameter Usage\Ref Parameter Usage.csproj", "{5B7A957A-CE79-45A2-9991-67B7C2233FC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{78275A20-E1DC-48D4-B706-B1732048C208}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78275A20-E1DC-48D4-B706-B1732048C208}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78275A20-E1DC-48D4-B706-B1732048C208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7A957A-CE79-45A2-9991-67B7C2233FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7A957A-CE79-45A2-9991-67B7C2233FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7A957A-CE79-45A2-9991-67B7C2233FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7A957A-CE79-45A2-9991-67B7C2233FC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
