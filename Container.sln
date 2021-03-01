@@ -31,17 +31,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Explanation of Switch", "Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop (while)", "Loop (while)\Loop (while).csproj", "{1074CFDC-3386-432A-91FE-F35F7DAD8B11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Technological Products Example (for,while and foreach)", "Technological Products Example (for and while)\Technological Products Example (for,while and foreach).csproj", "{75A4E17C-BB21-4317-88FA-0B2E2FEBCECF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Technological Products Example (for,while and foreach)", "Technological Products Example (for and while)\Technological Products Example (for,while and foreach).csproj", "{75A4E17C-BB21-4317-88FA-0B2E2FEBCECF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer Tracking Example in a Bank", "Customer Tracking Example in a Bank\Customer Tracking Example in a Bank.csproj", "{78275A20-E1DC-48D4-B706-B1732048C208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Customer Tracking Example in a Bank", "Customer Tracking Example in a Bank\Customer Tracking Example in a Bank.csproj", "{78275A20-E1DC-48D4-B706-B1732048C208}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref Parameter Usage", "Ref Parameter Usage\Ref Parameter Usage.csproj", "{5B7A957A-CE79-45A2-9991-67B7C2233FC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ref Parameter Usage", "Ref Parameter Usage\Ref Parameter Usage.csproj", "{5B7A957A-CE79-45A2-9991-67B7C2233FC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Out Parameter Usage", "Out Parameter Usage\Out Parameter Usage.csproj", "{B87BC5A7-498F-495E-9C2A-AA4B650FC824}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Out Parameter Usage", "Out Parameter Usage\Out Parameter Usage.csproj", "{B87BC5A7-498F-495E-9C2A-AA4B650FC824}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary Class", "Dictionary Class\Dictionary Class.csproj", "{6A5A209A-6CEC-444E-82BA-2E7CCF15E6EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary Class", "Dictionary Class\Dictionary Class.csproj", "{6A5A209A-6CEC-444E-82BA-2E7CCF15E6EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary (Dictionary)", "MyList (Dictionary)\MyDictionary (Dictionary).csproj", "{C0DE013C-6E3E-485D-AB15-73370B2E1FCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary (Dictionary)", "MyList (Dictionary)\MyDictionary (Dictionary).csproj", "{C0DE013C-6E3E-485D-AB15-73370B2E1FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Class", "Abstract Class\Abstract Class.csproj", "{26D109E0-BEA7-4B75-AEFF-8AC849661C8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{C0DE013C-6E3E-485D-AB15-73370B2E1FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0DE013C-6E3E-485D-AB15-73370B2E1FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0DE013C-6E3E-485D-AB15-73370B2E1FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D109E0-BEA7-4B75-AEFF-8AC849661C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D109E0-BEA7-4B75-AEFF-8AC849661C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D109E0-BEA7-4B75-AEFF-8AC849661C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D109E0-BEA7-4B75-AEFF-8AC849661C8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
